@@ -34,8 +34,8 @@ Worked across heterogeneous inference pipelines spanning **GPU, NPU, DLA, and CP
 ### [Evaluating the Cost-Effectiveness of Heterogeneous Edge Platforms for Neural Network Workloads](https://github.com/OmkarShende-OS/Evaluating-the-cost-effectiveness-of-Heterogeneous-Edge-Platforms-for-Neural-Network-Workloads)
 Benchmarking and profiling framework for evaluating latency, power, runtime behavior, and cost-effectiveness across heterogeneous edge AI platforms.
 
-### ScanTAP *(coming soon)*
-Contention-aware scheduling for concurrent DNN execution on heterogeneous multi-accelerator edge systems.
+### Concurrent DNN Scheduling on Heterogeneous Edge Accelerators *(selected work)*
+Scheduling and runtime optimization for concurrent neural workloads under resource contention, with emphasis on throughput, latency, and multi-accelerator coordination.
 
 ### PERTINENCE *(coming soon)*
 Input-adaptive dynamic execution for cost-aware neural inference using lightweight dispatch and Pareto-style tradeoff optimization.
